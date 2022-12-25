@@ -4,6 +4,6 @@
 ## Class: K66A5 - Data Science
 ### About
   #### This repository consist:
-    - 14 lab assignment
-    - 1 report about Git and Github
+    - 14 lab assignments.
+    - 1 report about Git and Github.
     
